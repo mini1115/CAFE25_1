@@ -9,4 +9,8 @@
 + 반응형 웹페이지💖
 + 깃허브 페이지로 배포
 
-[링크(https://mini1115.github.io/CAFE25_1/)]
+[링크](https://mini1115.github.io/CAFE25_1/)
+
+
+#2022.03.17
++ favicon 추가
